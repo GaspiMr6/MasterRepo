@@ -1,0 +1,2 @@
+Coger objetos Post Process object, 
+	y en  post process materials, array , todos a 0
