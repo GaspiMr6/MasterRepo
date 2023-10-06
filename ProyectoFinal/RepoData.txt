@@ -1,7 +1,7 @@
 Clone Repo 
 URL: 	  https://SoulsCatGames@dev.azure.com/SoulsCatGames/RememberMeow/_git/RememberMeow
 Name:     alumno1remembermeow
-Token:    74cts2soiyl2tj6gd34mznz7lvlrylmrlhuxkoqi7bwxt5ydb76q
+Token:    r5k2rq3qrskmdoea35obe6lrl5754tju5gctrrzafh6czad6qg5q
 Correo:
 alumno1remembermeow@gmail.com
 MCVUPF123?
