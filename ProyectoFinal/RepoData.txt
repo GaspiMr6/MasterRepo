@@ -7,3 +7,22 @@ alumno1remembermeow@gmail.com
 MCVUPF123?
 
 Repo Azure Link: https://dev.azure.com/SoulsCatGames/_git/RememberMeow
+
+
+000WEBHOST
+Sitio web: soulcats.000webhostapp.com
+Correo: alumno1remembermeow@gmail.com
+Contraseña: McvUpf_123
+
+BD
+
+Nombre: id21489127_bdsoulcats   (bdSoulcats)
+usuario:id21489127_alumno1rm    (alumno1rm)
+Contraseña: McvUpf_123
+Host: localhost
+
+PHPMYADMIN
+usuario:id21489127_alumno1rm    (alumno1rm)
+Contraseña: McvUpf_123
+
+http://soulcats.000webhostapp.com/selectData.php
