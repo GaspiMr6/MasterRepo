@@ -7,7 +7,8 @@
 - Parar enemigos hasta comlpetas tutorial
 - Ranking
 
+Playtest el jueves
+
 Si la reunion es sabado, fecha limite viernes, y si es domingo, fecha limite sabado
 
 
-con el objetivo de guardar el progreso y que el usuario pueda salir del juego, volver más tarde y seguir por donde se había quedad
