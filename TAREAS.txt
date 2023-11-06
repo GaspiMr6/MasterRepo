@@ -1,0 +1,13 @@
+- Alchemy puzzle save game
+- Cuando te metes por primera vez NewGame solo (Resume que no salga)
+- Lanzacosas no ataca a veces :(
+- EQS puzzle balanza centrado
+- Oscuridad balanza no aparece :(
+- Manual checkpoint no va el doble salto ni dash...
+- Parar enemigos hasta comlpetas tutorial
+- Ranking
+
+Si la reunion es sabado, fecha limite viernes, y si es domingo, fecha limite sabado
+
+
+con el objetivo de guardar el progreso y que el usuario pueda salir del juego, volver más tarde y seguir por donde se había quedad
